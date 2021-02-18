@@ -3,6 +3,7 @@
 
 ### Steps
 
+<<<<<<< HEAD
 #### Basic
 - [X] Hello world - [Fook](fook.fb) (Prints F*uck)
 - [ ] Getting User input
@@ -15,3 +16,8 @@
 
 #### Advanced 
 - [ ] Create Something 
+=======
+- [X] Hello world - [Fook](fook.bf) (Prints F*uck)
+- [ ] Getting user input
+- [ ] Todo..
+>>>>>>> 5811eb3310072ec24264ad8bdb50be052cffd348
